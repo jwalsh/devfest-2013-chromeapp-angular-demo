@@ -1,0 +1,20 @@
+{
+  "name": "resources",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jwalsh/devfest-2013-chromeapp-angular-demo",
+  "authors": [
+    "Jason Walsh <jwalsh@bluekai.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0",
+    "angular": "~1.0.8"
+  }
+}
