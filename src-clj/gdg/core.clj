@@ -1,4 +1,4 @@
-(ns devfest-2013-chromeapp-angular-demo.core)
+(ns gdg.core)
 
 (defn foo
   "I don't do a whole lot."
